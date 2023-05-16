@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9df70e2d7782774ba0112114077994e, type: 3}
+  m_Name: (MAIN)Level 13
+  m_EditorClassIdentifier: 
+  playerTower: 1
+  playerStrength: 20
+  enemyTower:
+  - enemies: 05000000
+  - enemies: 030000000300000003000000
+  - enemies: 0300000003000000030000000300000003000000
+  - enemies: 19000000190000001900000019000000
+  - enemies: c8000000
+  restriction: 0

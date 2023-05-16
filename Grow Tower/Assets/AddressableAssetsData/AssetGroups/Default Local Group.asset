@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 954b2f1c98cf2e747aee674c9c1fb714
+  m_SerializeEntries:
+  - m_GUID: 2e985ee9ea244c24db2991584b228083
+    m_Address: UI Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - UI
+  - m_GUID: dfc178458e3b4574b9b34180ab612597
+    m_Address: Game Object Prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Prefabs
+  - m_GUID: cb91fafa9a837e74bb7f65550df6577e
+    m_Address: LevelData
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelData
+  - m_GUID: 6d2692dc13f0a31488841c2cecdb3760
+    m_Address: BGM
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - BGM
+  - m_GUID: 18a517900ca9a9a428591b874a4a784e
+    m_Address: SFX
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - SFX
+  - m_GUID: 443413ebf8915bf45bef1751653c1d8e
+    m_Address: LevelData/(MAIN)Level 5.asset
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - LevelData
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 2cbdd740914a9d747a2cc8a55bdbd6f3, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 37ee93614da05b2479b9cd9374e19beb, type: 2}
+    - {fileID: 11400000, guid: 71975a0a494d64c47971ee6a7f94b865, type: 2}
